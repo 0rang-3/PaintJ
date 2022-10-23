@@ -15,48 +15,35 @@ This program allows you to paint anything you want on your computer, with a vari
 
 ### Installing
 
-* How/where to download your program
-* Any modifications needed to be made to files/folders
+* Open a new project in IntelliJ IDEA with Java 1.8
+* Download `core.jar` from this GitHub Repository can import it into the IntelliJ project
+* Select `core.jar`, right-click, and select "Add as Library.."
+* Create a new java class called `Main` in the src folder, remove the existing 2 lines in your java class, and copy paste the code from `Main.java` into your new java class
 
 ### Executing program
 
-* How to run the program
-* Step-by-step bullets
-```
-code blocks for commands
-```
+* Press the run button to run the program
+* Happy Painting!
 
 ## Help
 
-Any advise for common problems or issues.
-```
-command to run if program contains helper info
-```
+If you find a bug or have a question, please start an issue in this repository.
 
 ## Authors
 
-Contributors names and contact info
-
-ex. Dominique Pizzie  
-ex. [@DomPizzie](https://twitter.com/dompizzie)
+* [0rang-3](https://github.com/0rang-3/)  
 
 ## Version History
 
 * 0.2
-    * Various bug fixes and optimizations
-    * See [commit change]() or See [release history]()
+    * Add License
 * 0.1
     * Initial Release
 
 ## License
 
-This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
+This project is licensed under the Apache 2.0 License - see the LICENSE.md file for details
 
 ## Acknowledgments
 
-Inspiration, code snippets, etc.
-* [awesome-readme](https://github.com/matiassingers/awesome-readme)
-* [PurpleBooth](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
-* [dbader](https://github.com/dbader/readme-template)
-* [zenorocha](https://gist.github.com/zenorocha/4526327)
-* [fvcproductions](https://gist.github.com/fvcproductions/1bfc2d4aecb01a834b46)
+* [Microsoft Paint](https://apps.microsoft.com/store/detail/paint/9PCFS5B6T72H?hl=en-us&gl=us)
